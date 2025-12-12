@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 ## 🚀 About Me
 
 - 🔭 I’m currently working on interesting projects in **web development, machine learning, and cybersecurity**.
-- 🌱 I’m currently learning **advanced Python, React, and Go**.
+- 🌱 I’m currently learning **advanced Python, React, and other**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **programming, trading, and tech in general**.
 
