@@ -1,20 +1,19 @@
 # Hi there, I'm Kirubel Amare! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building cool things.
+Welcome to my GitHub profile! I'm a passionate developer who loves building cool things and learning new technologies.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on interesting projects.
-- 🌱 I’m currently learning new technologies.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything tech-related!
+- 🔭 I’m currently working on interesting projects in **web development, machine learning, and cybersecurity**.
+- 🌱 I’m currently learning **advanced Python, React, and Go**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 💬 Ask me about **programming, trading, and tech in general**.
+
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,git,linux,vscode" />
 </p>
 
 ## 📈 GitHub Stats
@@ -26,10 +25,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ## 📫 Connect with Me
 
-<!-- Add your social media links here -->
-- [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/)
-- [Email](mailto:your-email@example.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kirubel-amare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/KirubelAmare" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kirubel@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kirubel-Amare" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
+
 ⭐️ From [Kirubel-Amare](https://github.com/Kirubel-Amare)
